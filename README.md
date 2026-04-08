@@ -5,7 +5,7 @@
 [![日本語](https://img.shields.io/badge/日本語-クリック-青)](README-ja.md)
 [![한국어](https://img.shields.io/badge/한국어-클릭-yellow)](README-ko.md)
 [![Português Brasileiro](https://img.shields.io/badge/Português_Brasileiro-Clique-green)](README-pt_BR.md)
-[![Discord](https://img.shields.io/discord/1312302100125843476?logo=discord&label=discord)](https://glama.ai/mcp/discord)
+[![Discord](https://img.shields.io/discord/131302100125843476?logo=discord&label=discord)](https://glama.ai/mcp/discord)
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/mcp?style=flat&logo=reddit&label=subreddit)](https://www.reddit.com/r/mcp/)
 
 > [!IMPORTANT]
@@ -750,7 +750,9 @@ Tools and integrations that enhance the development workflow and environment man
 - [bbonnin/openapi-to-mcp](https://github.com/bbonnin/openapi-to-mcp) ☕ 🏠 🍎 🪟 🐧 - MCP server that automatically converts any OpenAPI/Swagger specification into a set of usable MCP tools. Unlike manual tool definition, this approach auto-generates tools directly from the Swagger spec, ensuring consistency, reducing maintenance effort, and preventing mismatches between the tools and the actual API.
 - [BetterDB-inc/monitor](https://github.com/BetterDB-inc/monitor) [![BetterDB MCP server](https://glama.ai/mcp/servers/BetterDB-inc/monitor/badges/score.svg)](https://glama.ai/mcp/servers/BetterDB-inc/monitor) 📇 ☁️ 🏠 - Valkey-first observability with Redis compatibility. Query real-time metrics, analyze slow commands, detect hot keys, and investigate performance issues directly from AI coding assistants.
 - [muvon/octocode](https://github.com/Muvon/octocode) [![octocode](https://glama.ai/mcp/servers/Muvon/octocode/badges/score.svg)](https://glama.ai/mcp/servers/Muvon/) 🦀 🏠 🍎 🪟 🐧 - Semantic code indexer with GraphRAG knowledge graph. Index your codebase, search in natural language, and expose everything via MCP so AI agents understand architecture — not just files.
-- [bgauryy/octocode-mcp](https://github.com/bgauryy/octocode-mcp) ☁️ 📇 🍎 🪟 🐧 - AI-powered developer assistant that enables advanced research, analysis and discovery across GitHub and NPM realms in realtime.
+- [bgauryy/octocode-mcp](https://github.com/bgauryy/octocode-mcp) ☁️ 📇 🍎 🪟 🐧 - AI-powered developer assistant that enables advanced research, analysis and discovery across GitHub and NPM
+- [bdubtronux/2ndopinion](https://github.com/bdubtronux/2ndopinion) 📇 🏠 - The first AI-to-AI communication platform. Claude, Codex, and Gemini cross-check each other's code reviews via MCP, REST API, and CLI. Confidence-weighted consensus, smart model routing, and pattern memory.
+- - realms in realtime.
 - [bitrise-io/bitrise-mcp](https://github.com/bitrise-io/bitrise-mcp) 🎖️ 🐍 ☁️ 🍎 🪟 🐧 - MCP Server for the [Bitrise](https://bitrise.io) API, enabling app management, build operations, artifact management and more.
 - [BrainGrid MCP](https://docs.braingrid.ai/mcp-server/installation) 🎖️☁️ - [BrainGrid](https://braingrid.ai) MCP is the Product Management Agent that writes your specs, plans your features, and creates engineering-grade tasks your coding tools can build reliably.
 - [BrunoKrugel/echo-mcp](https://github.com/BrunoKrugel/echo-mcp) 🏎️ ☁️ 📟 🪟 🐧 🍎 - A zero-configuration Go library to automatically expose any existing Echo web framework APIs as MCP tools.
